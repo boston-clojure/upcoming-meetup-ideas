@@ -23,7 +23,7 @@ Speakers from industry talk about using Clojure in production.
 - Livecode in Gorilla Repl (literate coding / data visualization)
 - Livecode in Overtone (generate music via functional composition)
 - Hello World Web App - with or without frameworks like Luminus, Pedestal, or Caribu
--- maybe break into groups for different frameworks. 
+    - maybe break into groups for different frameworks. 
 - ClojureScript bootstrap
 - Om intro/tutorial
 - Core library demos, e.g. core.logic, core.async, core.matrix
