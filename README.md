@@ -30,3 +30,19 @@ Speakers from industry talk about using Clojure in production.
 - Make a mini language with Instaparse
 - Datomic overview
 - Web Scraping with Clojure
+
+## Additional Meetup Topic Ideas - from May 14, 2015 Meetup
+
+- barriers to adoption
+- test.check
+- core.typed
+- open mic day
+- Prismatic Graph and Schema
+- production concerns
+- concurrency
+- deployment
+- memoize
+- ClojureScript
+- solve real problems together (newsletter subscription)
+- Clojure internals (patch issues in public projects)
+- Pixie (lightweight Clojure interpreter)
