@@ -1,4 +1,8 @@
-Planning for upccoming meetups for the Boston Clojure Group. Suggestions and discussions are at [our mailing list](https://groups.google.com/forum/#!forum/boston-clojure).
+## Upcoming Meetup Ideas for the Boston Clojure Group. 
+
+Suggestions and discussions:
+* on [our mailing list](https://groups.google.com/forum/#!forum/boston-clojure)
+* in [our channel](https://clojurians.slack.com/messages/clojure-boston) on the [Clojurians Slack](https://clojurians.slack.com)
 
 #### Ideas from April 14, 2016 Meetup
 
