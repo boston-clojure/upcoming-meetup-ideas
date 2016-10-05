@@ -4,7 +4,7 @@ Suggestions and discussions:
 * on [our mailing list](https://groups.google.com/forum/#!forum/boston-clojure)
 * in [our channel](https://clojurians.slack.com/messages/clojure-boston) on the [Clojurians Slack](https://clojurians.slack.com)
 
-### Ideas from August 11, 2016 Meetup
+#### Ideas from August 11, 2016 Meetup
 * **"Clojure at Work"**: what are people using Clojure professionally
 * **Machine Learning with Clojure**: perhaps look at https://github.com/uncomplicate/bayadera
 * **Typing**: A broader discussion of Types and Clojure, perhaps things like tools and practices for testing, validation, pre/post conditions, dev practices, etc.
